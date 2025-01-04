@@ -1,0 +1,54 @@
+[33mcommit fb227896a274df8ac09c8aca1fb1ba599ddc1e80[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mlogin[m[33m)[m
+Merge: 96e5342 7ed4801
+Author: stiv001 <stalynquishpe22@gmail.com>
+Date:   Sat Jan 4 15:23:52 2025 -0500
+
+    Merge branch 'main' into login
+
+[33mcommit 96e53424abe48fb4dbb1da24bcbcbc46d75a1947[m
+Author: stiv001 <stalynquishpe22@gmail.com>
+Date:   Sat Jan 4 15:23:08 2025 -0500
+
+    Mi segundo commit en la rama login
+
+[33mcommit 7ed4801325a4c1a3bb4e917202f47181a4bf1347[m[33m ([m[1;32mmain[m[33m)[m
+Author: stiv001 <stalynquishpe22@gmail.com>
+Date:   Sat Jan 4 15:16:08 2025 -0500
+
+    Mi quinto commit
+
+[33mcommit 1438adde88239871dfb5a12d035fe695d97bf973[m
+Author: stiv001 <stalynquishpe22@gmail.com>
+Date:   Sat Jan 4 15:08:48 2025 -0500
+
+    Mi primer commit en la rama login
+
+[33mcommit 3cf1a245c050cb979a64ad462a1f3b74bce9be09[m
+Author: stiv001 <stalynquishpe22@gmail.com>
+Date:   Sat Jan 4 13:25:56 2025 -0500
+
+    mi quinto commit
+
+[33mcommit bbaa3ff4ffbdd52a6ea4386a12d3732a3e1bb3e9[m[33m ([m[1;33mtag: [m[1;33mversion_1[m[33m)[m
+Author: stiv001 <stalynquishpe22@gmail.com>
+Date:   Sat Jan 4 13:02:52 2025 -0500
+
+    mi cuarto commit
+
+[33mcommit 5da57c988318c72bb4d7a48cc0d8a9fafe1f4831[m
+Author: stiv001 <stalynquishpe22@gmail.com>
+Date:   Sat Jan 4 12:44:00 2025 -0500
+
+    Añadiendo el gitignore
+
+[33mcommit 85a319aebf554319ef16ae1cccb08ed30426f2f1[m
+Author: stiv001 <stalynquishpe22@gmail.com>
+Date:   Mon Dec 30 15:33:19 2024 -0500
+
+    Mi segundo commit
+
+[33mcommit 6b3bb8aad39f41bdaf392294469ff2717426c29f[m
+Author: stiv001 <stalynquishpe22@gmail.com>
+Date:   Mon Dec 30 15:24:08 2024 -0500
+
+    Mi primer comit
